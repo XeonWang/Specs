@@ -5,7 +5,7 @@
   s.homepage     = "https+webdav://bzr.vipaar.com"
   s.license      = 'Copyright VIPAAR 2017'
   s.author       = 'Marcus Dillavou' 
-  s.source       = { :bzr => "bzr+ssh://bzr.vipaar.com/repos/libballyhoo-ios/master", :tag => "3.1.2" }
+  s.source       = { :bzr => "/Users/wangzhiqiang/mount/libballyhoo-ios/master", :tag => "3.1.2" }
   s.source_files = 'libballyhoo/**/*.{h,m}'
   s.requires_arc = true
   s.ios.dependency  'vipaar-rcl', '1.0.0'
