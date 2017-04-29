@@ -1,4 +1,4 @@
-Spec:: Pod.new do |s|
+Pod::Spec.new do |s|
   s.name         = "vipaar-xmlrpc"
   s.version      = "1.0.1"
   s.summary      = "XMLRPC Library exclusively for use in the VIPAAR iOS application"
